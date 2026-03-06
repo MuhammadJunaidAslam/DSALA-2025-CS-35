@@ -1,3 +1,8 @@
+// MUHAMMAD JUNAID ASLAM
+// DSALA-2025-CS-35
+// LAB 02
+// Secure File-Based Banking System
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -345,3 +350,4 @@ int main(){
     
     return 0;
 }
+
